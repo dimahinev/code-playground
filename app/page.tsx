@@ -18,7 +18,6 @@ const Comp = () =>
 
 render(
     <Comp/>
-)
 ) `}
       />
     </main>
